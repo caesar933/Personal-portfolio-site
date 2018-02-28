@@ -1,0 +1,35 @@
+.header{
+    padding-top: 10px;
+}
+
+.jumbotron, .jumbotron-fluid, .container-fluid{
+    height: 540px; 
+    background: url("https://static.pexels.com/photos/196659/pexels-photo-196659.jpeg") center no-repeat;
+    background-size: cover;
+}
+
+.background_body{
+    background-color: #f3f3f3;
+}
+
+.header_text{
+    margin-top: 0;
+}
+
+.header hr{
+    display: none;
+}
+
+.logo{
+    height: 80px;
+    width: 80px;
+}
+
+.display-4{
+    padding-top: 140px;
+    font-size: 40px
+}
+
+.btn{
+    margin-left: 30%;
+}
